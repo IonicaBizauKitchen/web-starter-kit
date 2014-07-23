@@ -1,6 +1,6 @@
 {
   "name": "Google Web Starter Kit",
-  "description": "Web Starter Kit is a starting point for multi-screen web development. It encompasses opinionated recommendations on boilerplate and tooling for building an experience that works great across multiple devices. We help you stay productive and aligned with the best practices outlined in Google's Web Fundamentals.",
+  "description": "An starting point for building great multi-device web experiences, based on Google's Web Fundamentals for modern web development",
   "keywords": ["boilerplate", "static", "reponsive", "google"],
   "logo": "https://i.cloudup.com/S6YWafzItb.png",
   "repository": "https://github.com/zeke/web-starter-kit",
